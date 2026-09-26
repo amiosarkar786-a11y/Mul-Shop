@@ -1,0 +1,6 @@
+{
+  "name": "Mul Shop",
+  "description": "Modern realistic Indian shopping application with vibrant yellow and pink branding, rich catalog, flash deals, cart, wishlist, address, order tracking, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
